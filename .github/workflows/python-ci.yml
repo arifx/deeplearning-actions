@@ -34,3 +34,7 @@ jobs:
     #- name: Test with pytest
       #run: |
       #  pytest
+    - name: Run Hello world
+        run:|
+          python helloworld.py
+          
